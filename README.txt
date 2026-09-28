@@ -48,3 +48,7 @@ R output filenames are relative to these folders under the local data root:
 | Figure A3 | R / data process.R | Figure_A3.pdf; Figure_A3.png |
 | Figure A4 | R / data process.R | Figure_A4.pdf; Figure_A4.png |
 | Figure A5 | Stata / run.do | Stata Graph: robustness heatmaps |
+
+Contact
+
+Chengwei Fan, Department of Supply Chain & Information Systems, Penn State, cff5363@psu.edu
